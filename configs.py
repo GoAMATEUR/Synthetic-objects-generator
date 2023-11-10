@@ -18,8 +18,13 @@ CATEGORIES = [
     },
     {
         'id': 4,
-        'name': 'cyan_cup',
-        'supercategory': 'cup',
+        'name': 'apple',
+        'supercategory': 'fruit',
+    },
+    {
+        'id': 5,
+        'name': 'banana',
+        'supercategory': 'fruit',
     }
 ]
 

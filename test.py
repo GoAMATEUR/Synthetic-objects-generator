@@ -8,7 +8,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import cv2
 from pycococreatortools import pycococreatortools
-from config import CATEGORIES
+from configs import CATEGORIES
 # initialize the GUI and others
 
 
